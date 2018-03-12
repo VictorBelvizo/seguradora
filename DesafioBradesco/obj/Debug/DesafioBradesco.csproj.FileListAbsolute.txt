@@ -1,0 +1,9 @@
+c:\users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\bin\Debug\DesafioBradesco.exe.config
+C:\Users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\bin\Debug\DesafioBradesco.exe
+C:\Users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\bin\Debug\DesafioBradesco.pdb
+C:\Users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\obj\Debug\DesafioBradesco.csprojResolveAssemblyReference.cache
+C:\Users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\obj\Debug\DesafioBradesco.Form1.resources
+C:\Users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\obj\Debug\DesafioBradesco.Properties.Resources.resources
+C:\Users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\obj\Debug\DesafioBradesco.csproj.GenerateResource.Cache
+C:\Users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\obj\Debug\DesafioBradesco.exe
+C:\Users\re035727\Documents\Projetos VS\DesafioBradesco\DesafioBradesco\obj\Debug\DesafioBradesco.pdb
